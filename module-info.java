@@ -5,5 +5,5 @@ module PDF.Merger {
 
     requires pdfbox.app;
 
-    opens sample;
+    opens merger;
 }

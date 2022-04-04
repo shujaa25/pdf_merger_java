@@ -1,4 +1,4 @@
-package sample;
+package merger;
 
 
 import javafx.collections.ObservableList;

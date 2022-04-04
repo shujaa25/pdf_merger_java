@@ -1,4 +1,4 @@
-package sample;
+package merger;
 
 import javafx.event.Event;
 import javafx.geometry.Insets;
